@@ -1,4 +1,4 @@
-package com.sleepai.iotserver;
+package com.sleepai.iotserver.controller;
 
 import com.sleepai.iotserver.model.Author;
 import com.sleepai.iotserver.model.AuthorInput;
